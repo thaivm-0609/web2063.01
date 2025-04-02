@@ -1,0 +1,77 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "maSv": "PH12345",
+      "ten": "Vương Minh Thái",
+      "namSinh": 1900,
+      "gioiTinh": "Nam",
+      "anh": "https://picsum.photos/200"
+    },
+    {
+      "maSv": "PH1111",
+      "ten": "thaivm2",
+      "namSinh": 1955,
+      "gioiTinh": "Nam",
+      "anh": "https://picsum.photos/100",
+      "id": 2
+    },
+    {
+      "maSv": "PH1111",
+      "ten": "thaivm2",
+      "namSinh": 1955,
+      "gioiTinh": "Nam",
+      "anh": "https://picsum.photos/100",
+      "id": 3
+    },
+    {
+      "maSv": "PH444444444",
+      "ten": "thaivm4444444444",
+      "namSinh": 1966444444444444400,
+      "gioiTinh": "Nam",
+      "anh": "https://picsum.photos/50",
+      "id": 4
+    },
+    {
+      "maSv": "",
+      "ten": "",
+      "namSinh": 0,
+      "gioiTinh": "Nam",
+      "anh": "",
+      "id": 5
+    },
+    {
+      "maSv": "",
+      "ten": "",
+      "namSinh": 0,
+      "gioiTinh": "Nam",
+      "anh": "",
+      "id": 6
+    },
+    {
+      "maSv": "",
+      "ten": "",
+      "namSinh": 0,
+      "gioiTinh": "Nam",
+      "anh": "",
+      "id": 7
+    },
+    {
+      "maSv": "",
+      "ten": "",
+      "namSinh": 0,
+      "gioiTinh": "Nam",
+      "anh": "",
+      "id": 8
+    },
+    {
+      "maSv": "",
+      "ten": "",
+      "namSinh": 0,
+      "gioiTinh": "Nam",
+      "anh": "",
+      "id": 9
+    }
+  ],
+  "users": []
+}
