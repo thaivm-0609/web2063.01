@@ -36,7 +36,19 @@
     </nav>
     <div class="container">
       <h1 class="text-center my-2">Login User</h1>
+      <form class="form-group" onSubmit="login(event)">
+        <div>
+          <label for="" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email">
+        </div>
+        <div>
+          <label for="" class="form-label">Password</label>
+          <input type="password" class="form-control" id="password">
+        </div>
+        <button type="submit" class="btn btn-success">Đăng nhập</button>
+      </form>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.7/axios.min.js"></script>
+    <script src="auth.js"></script>
   </body>
 </html>

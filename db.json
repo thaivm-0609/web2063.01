@@ -73,5 +73,16 @@
       "id": 9
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "thaivm2@fe.edu.vn",
+      "password": "$2a$10$nRopbCmzAlIiuuv5kubBYeG23Zsl322odODYLM/xpnH8bzJZ4sL.S",
+      "id": 1
+    },
+    {
+      "email": "thaivm3@fe.edu.vn",
+      "password": "$2a$10$I3mpMC2SJAXEQNm71FpaSO01Y6kI4Mlt4QRo7ujHUu/GFTkxqcSxK",
+      "id": 2
+    }
+  ]
 }
